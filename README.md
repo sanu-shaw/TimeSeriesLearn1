@@ -1,0 +1,1 @@
+This is the project for learning ARIMA and Seasonal ARIMA
